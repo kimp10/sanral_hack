@@ -1,5 +1,5 @@
 # Uber Movement SANRAL Cape Town Challenge
-Base python docker for SANRAL zindi hack
+Base python docker for SANRAL zindi hackathon
 # To build docker run the following commands in bash
 
 `$make create-all` will build docker from scratch and mount user directory so you can edit locally and run them in the docker.
