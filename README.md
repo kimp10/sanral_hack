@@ -1,4 +1,4 @@
-# sanral_hack
+# Uber Movement SANRAL Cape Town Challenge
 Base python docker for SANRAL zindi hack
 # To build docker run the following commands in bash
 
